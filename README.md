@@ -30,7 +30,7 @@ Esta es la imagen de la luna donde aterriza y aqui es donde se complican primero
 Para que los elementos se reduzcan y se agrandan cuando minimizas y máximizas la página el comando para hacerlo es object-fit: scale-down y para que tengan una separación enntre los elementos le puse un top de un 2% y una anchura de un 50%.
 
 **Boton Push**
-Aqui le puse un id ="boton" porque queria que tuviera una configuración diferenete por ejemplo queria que tuviera una separación mucho mayor al de los elemntos de la derecha y para que maximizara el objeto y minimizara le puse object-fit :scaledown.
+Aqui le puse un id ="boton" porque queria que tuviera una configuración diferente por ejemplo queria que tuviera una separación mucho mayor al de los elementos de la derecha y para que maximizara el objeto y minimizara le puse object-fit :scaledown.
 
 **Boton Información**
 Aqui le puese un hipervinculo a otro pagina html que se llama instrucciones .html y contiene todas las instrucciones sobre como funciona el juego.
