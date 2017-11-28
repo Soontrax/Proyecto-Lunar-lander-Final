@@ -1,0 +1,76 @@
+html,body{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-position: center ;
+	background-size: cover;
+	margin:0px;
+	height:100%;
+}
+
+#nave{ 	
+	object-fit: scale-down;
+	text-align:center;
+	position:fixed;
+	top:2%;
+	width:100%;
+	height:20%;
+	z-index: 0;
+}
+
+#derecha{
+	background-color: black;
+	width: 210px;
+	float: right;
+	height: 100%;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	z-index: 2;
+}
+
+#izquierda{
+	background-color: black;
+	width:250px;
+	height: 100%;
+	text-align: center;
+}
+
+#suelo{
+	height:32%;
+	bottom:0;
+	object-fit: scale-down;
+	position: fixed;
+	right: 0;
+	left: 0;
+	margin: 0 auto;
+	z-index: 
+	margin right:250px;
+	margin-left: 250px;
+}
+
+.logo{
+	object-fit: scale-down;
+	text-align:center;
+	width:50%;
+	height:17%;
+}
+
+#boton{
+	width: 100%;
+	padding-top: 58%;
+	object-fit: scale-down;
+}
+
+.indicador{
+	width: 60%;
+	object-fit: scale-down;
+	height: 14%;
+
+}
+
+.logod{
+	object-fit: scale-down;
+	top:2%;
+	width:50%;
+	height:20%;
+}
