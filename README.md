@@ -1,7 +1,7 @@
 **Información**
 El objetivo de este trabajo es hacer el diseño de la nave pero con el diseño de otra persona de la lista.
 Lo primero que he echo ha sido planificarme el diseño como seria con un boceto y luego empezar a colocar las cosas
-Todos los elementos los he cogido del repositorio del compañero que me ha tocado.Luego hay que hacer dos diseños una para el ordenador y otra para el móvil y luego cuando ya este echo unirlos en un solo *HTML* 
+Todos los elementos los he cogido del repositorio del compañero que me ha tocado.Luego hay que hacer dos diseños una para el ordenador y otra para el móvil y luego cuando ya este echo unirlos en un solo *HTML*. Aparte las imagenes las he puesto en la carpeta /img/ y los diseños *.css* en la carpeta /css/.
 
 **Diseño:**
 
