@@ -1,4 +1,4 @@
-La version minifier del html esta dentro del archo index.html
+**La version minifier del html esta dentro del archo index.html**
 
 **Información**
 El objetivo de este trabajo es hacer el diseño de la nave pero con el diseño de otra persona de la lista.
